@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"S9T6e4\":\"Open up App.tsx to start working on your app!\"}")};
