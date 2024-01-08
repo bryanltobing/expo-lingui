@@ -13,6 +13,26 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/App.tsx:21
+#: src/App.tsx:59
+msgid "{count, plural, =0 {There are no invite codes} =1 {# invite code available} other {# invite codes available}}"
+msgstr ""
+
+#: src/App.tsx:79
+msgid "{count, selectordinal, =1 {#st} =2 {#nd} =3 {#rd} other {#th}}"
+msgstr ""
+
+#: src/App.tsx:68
+msgid "{gender, select, male {His book} female {Her book} other {Their book}}"
+msgstr ""
+
+#: src/App.tsx:84
+msgid "<0><1>We are sending OTP to</1><2> 082192840486</2><3> tonight!</3></0>"
+msgstr ""
+
+#: src/App.tsx:55
+msgid "Hello {name}"
+msgstr "Hello {name}"
+
+#: src/App.tsx:51
 msgid "Open up App.tsx to start working on your app!"
 msgstr "Open up App.tsx to start working on your app!"

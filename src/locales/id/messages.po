@@ -13,6 +13,26 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/App.tsx:21
+#: src/App.tsx:59
+msgid "{count, plural, =0 {There are no invite codes} =1 {# invite code available} other {# invite codes available}}"
+msgstr "{count, plural, =0 {Tidak ada kode undangan} =1 {# kode undangan tersedia} other {# kode undangan tersedia}}"
+
+#: src/App.tsx:79
+msgid "{count, selectordinal, =1 {#st} =2 {#nd} =3 {#rd} other {#th}}"
+msgstr "{count, selectordinal, =1 {#} =2 {#} =3 {#} other {#}}"
+
+#: src/App.tsx:68
+msgid "{gender, select, male {His book} female {Her book} other {Their book}}"
+msgstr "{gender, select, male {Buku dia} female {Buku dia} other {Buku dia}}"
+
+#: src/App.tsx:84
+msgid "<0><1>We are sending OTP to</1><2> 082192840486</2><3> tonight!</3></0>"
+msgstr "<0><1>Kami mengirimkan OTP ke</1><2> 082192840486</2><3> malam ini!</3></0>"
+
+#: src/App.tsx:55
+msgid "Hello {name}"
+msgstr "Halo {name}"
+
+#: src/App.tsx:51
 msgid "Open up App.tsx to start working on your app!"
 msgstr "Buka App.tsx, untuk mulai membangun app kamu"

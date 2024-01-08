@@ -7,13 +7,17 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "extract": "lingui extract",
-    "compile": "lingui compile"
+    "intl:extract": "lingui extract",
+    "intl:compile": "lingui compile"
   },
   "dependencies": {
+    "@formatjs/intl-getcanonicallocales": "^2.3.0",
+    "@formatjs/intl-locale": "^3.4.3",
+    "@formatjs/intl-pluralrules": "^5.2.10",
     "@lingui/react": "^4.6.0",
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
+    "intl-pluralrules": "^2.0.1",
     "react": "18.2.0",
     "react-native": "0.72.6"
   },
